@@ -1,0 +1,46 @@
+* {
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #f8f9fa;
+}
+
+h1 {
+    background: linear-gradient(#00b7ff, blue);
+    font-size: 50px;
+    color: white;
+}
+
+h2 {
+    font-size: 35px;
+    color: #212121;
+}
+
+header li {
+    list-style-type: none;
+    display: inline-block;
+    margin-inline: 10px;
+}
+
+header a {
+    color: blue;
+}
+
+header a:hover {
+    color: red;
+}
+
+.intro {
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+.content {
+    background-color: white;
+    box-shadow: 2px 2px 4px #007bff;
+    text-align: center;
+    padding: 10px;
+}
